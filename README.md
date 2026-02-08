@@ -29,13 +29,14 @@ Aplicação em terminal para controle financeiro pessoal, com suporte a múltipl
 
 ### 1️⃣ Clonar o repositório
 
-git clone https://github.com/CleberWilsonL/Gerenciador-de-Gastos-CLI-em-Python-/tree/main 
+git clone https://github.com/CleberWilsonL/Gerenciador-de-Gastos-CLI-em-Python.git 
 
 cd Gerenciador-de-Gastos-CLI-em-Python
-
-2️⃣ Executar o programa
+##
+### 2️⃣ Executar o programa
 python main.py
 
+---
 📁 Estrutura do Projeto
 
 /
