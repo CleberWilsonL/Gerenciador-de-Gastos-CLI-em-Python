@@ -1,41 +1,52 @@
-# 💸 Gerenciador de Gastos em Python
+# 💸 Gerenciador de Gastos em Python (CLI)
 
-Aplicação em terminal para controle financeiro pessoal, com suporte a múltiplos usuários, filtros, resumos e exportação para Excel.
+Aplicação em terminal para controle financeiro pessoal, com suporte a múltiplos usuários, filtros, relatórios e exportação para Excel.
 
 ---
 
-## Funcionalidades
+## 📌 Funcionalidades
 
 - Cadastro e login de usuários
-- CRUD completo de gastos
+- Gerenciamento completo de gastos (CRUD)
 - Filtros por data e categoria
 - Busca e ordenação
-- Resumos financeiros
-- Exportação CSV (Excel)
-- Persistência em JSON
+- Relatórios financeiros
+- Exportação para CSV (Excel)
+- Armazenamento em JSON
 
 ---
 
-## Tecnologias
+## 🛠 Tecnologias
 
 - Python 3
 - JSON
 - CSV
-- Hashlib
+- Hashlib (segurança de senhas)
 
 ---
 
 ## ▶️ Como executar
 
-```bash
+### 1️⃣ Clonar o repositório
+
+git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+cd NOME_DO_REPOSITORIO
+
+2️⃣ Executar o programa
 python main.py
 
-##📌 Estrutura
+📁 Estrutura do Projeto
+/
+├── main.py
+├── data/
+│   ├── usuarios.json
+│   └── gastos_usuario.json
+├── exports/
+│   └── gastos_export.csv
+└── README.md
 
-main.py — aplicação principal
-usuarios.json — usuários
-gastos_<usuario>.json — dados por usuário
+👤 Autor
 
-👨‍💻 Autor
 Cleber Wilson Lacerda
-https://github.com/seu-usuario
+
+GitHub: https://github.com/SEU_USUARIO
