@@ -30,6 +30,7 @@ Aplicação em terminal para controle financeiro pessoal, com suporte a múltipl
 ### 1️⃣ Clonar o repositório
 
 git clone https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git
+
 cd NOME_DO_REPOSITORIO
 
 2️⃣ Executar o programa
