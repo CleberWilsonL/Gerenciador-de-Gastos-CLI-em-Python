@@ -35,6 +35,13 @@ cd Gerenciador-de-Gastos-CLI-em-Python
 ##
 ### 2️⃣ Executar o programa
 python main.py
+##
+
+### Deixei um perfil cadastrado com alguns dados:
+
+Nome: Dante
+
+Senha: 1234
 
 ---
 📁 Estrutura do Projeto
